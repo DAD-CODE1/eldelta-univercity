@@ -213,7 +213,7 @@ h2, p {
 
 }
 .header {
-  background-image: url('../images/bg1.png'); /* ضع رابط الصورة هنا */
+  background-image: url('../images/bg1.PNG'); /* ضع رابط الصورة هنا */
   background-size: cover; /* تجعل الصورة تغطي كامل الخلفية */
   background-position: center; /* تجعل الصورة تتمركز بشكل جيد */
   height: 100vh; /* يمكنك تعديل ارتفاع الهيدر */
